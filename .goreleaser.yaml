@@ -31,4 +31,4 @@ changelog:
 release:
   github:
     owner: hahuang65
-    name: lambdalogs
+    name: awslogs
